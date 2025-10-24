@@ -1,16 +1,23 @@
-# React + Vite
+# Frontend Assignment Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React + Vite frontend project demonstrating a two-panel layout with widgets:  
 
-Currently, two official plugins are available:
+- **AboutWidget**: Tab-based component to show "About", "Experiences", and "Recommended" content.  
+- **GalleryWidget**: Displays a gallery of images with the ability to add new random images.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Responsive layout (flexbox + media queries).  
+- Dark theme with clean UI.  
+- Dynamic tab switching and image addition.  
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React 18  
+- Vite  
+- JavaScript (ES6+)  
+- CSS  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# live preview
+https://fontend-assignment.netlify.app/
+
