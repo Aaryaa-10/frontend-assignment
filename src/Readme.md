@@ -18,3 +18,6 @@ This is a simple React + Vite frontend project demonstrating a two-panel layout 
 - JavaScript (ES6+)  
 - CSS  
 
+# live preview
+https://fontend-assignment.netlify.app/
+
